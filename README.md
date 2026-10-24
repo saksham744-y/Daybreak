@@ -1,8 +1,16 @@
 <div align="center">
-  <span style="font-size: 48px; font-weight: 800; vertical-align: middle;">Daybreak</span>
-  <img src="Screenshot/version.png" alt="Version 2" height="70" style="vertical-align: middle; margin-left: 30px;" />
+  <table>
+    <tr>
+      <td valign="middle">
+        <h1><b>Daybreak</b></h1>
+      </td>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td valign="middle">
+        <img src="YOUR_IMAGE_PATH_OR_URL" alt="Version 2" height="70" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
 
