@@ -1,5 +1,5 @@
 
-<img src="Screenshot/version.png" width="100">
+h &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshot/version.png" width="100"> <h1 font>
 
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
 
