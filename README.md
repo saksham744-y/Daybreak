@@ -75,7 +75,7 @@ Some phones stop background apps to save battery. If reminders arrive late:
 
 ### Updating
 
-Download the newer `.apk` from the latest release and install it over the old one. Your plan and notes are kept.
+#### To Download the newer `.apk` from the latest release Do the following Steps **
 
 ---
 
