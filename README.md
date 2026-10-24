@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Daybreak &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshot/Main.jpg" alt="Version 2" width="120"></h1>
+  <h1> Daybreak &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshot/version.jpg" alt="Version 2" width="120"></h1>
 </div>
 
 
