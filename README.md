@@ -5,7 +5,7 @@
 - 🌐 **Website:** the original web app (PWA) in this repository, which runs in any browser and can be installed to your home screen.
 - 🌐 **Website link :**  <https://saksham744-y.github.io/Daybreak/>
 - 📱 **Android app:** a native app (Kotlin + Jetpack Compose) published as a file in this repository's **Releases**.
-- 📱 **Android app download link:** <https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk>
+- 📱 **App download link:** <https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk>
 
 Both versions are built for mobile first and keep your plan on your own device.
 
