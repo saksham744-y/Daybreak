@@ -1,16 +1,4 @@
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle">
-        <h1><b>Daybreak</b></h1>
-      </td>
-      <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td valign="middle">
-        <img src="YOUR_IMAGE_PATH_OR_URL" alt="Version 2" height="70" />
-      </td>
-    </tr>
-  </table>
-</div>
+# <h1> Daybreak </h> 
 
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
 
