@@ -1,5 +1,6 @@
 <div align="center">
-  <h1> Daybreak &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshot/version.png" alt="Version 2" width="120"></h1>
+  <span style="font-size: 48px; font-weight: 800; vertical-align: middle;">Daybreak</span>
+  <img src="Screenshot/version.png" alt="Version 2" height="70" style="vertical-align: middle; margin-left: 30px;" />
 </div>
 
 
