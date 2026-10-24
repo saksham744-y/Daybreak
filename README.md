@@ -1,4 +1,6 @@
-# Daybreak <img src="Screenshot/version.png" width="100">
+<div align="center">
+  <h1>Daybreak &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshot/Main.jpg" alt="Version 2" width="120"></h1>
+</div>
 
 
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
