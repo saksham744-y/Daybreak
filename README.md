@@ -18,9 +18,6 @@ Both versions are built for mobile first and keep your plan on your own device.
     <img src="Screenshot/theam.jpg" width="220">
   </p>
 
-  
-*A simple sketch of the Day screen. Replace it with a real screenshot by adding `docs/screenshot.png` to the repository and using `![Daybreak](docs/screenshot.png)`.*
-
 ---
 
 ## What it does
