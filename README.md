@@ -72,10 +72,24 @@ Some phones stop background apps to save battery. If reminders arrive late:
 1. Go to **Settings → Apps → Daybreak → Battery** and choose **Unrestricted** (or turn off battery optimisation).
 2. Allow **Alarms & reminders** for Daybreak if your phone offers that setting.
 3. Open the **Function** tab and use **Send test notification** to check it works.
+---
 
 ### Updating
 
-#### To Download the newer `.apk` from the latest release Do the following Steps **
+##### To Download the newer `.apk` from the latest release Do the following Steps #
+
+1. Open `Function` tab in App
+2. Scroll to the bottom
+3. At bottom if the `update button` is light in color (or clickable) then click on it to install
+4. Don't close the app the apk will be downloded
+5. click the package installer to update the app
+
+
+---
+
+# Versions
+**version 1**
+###### link : 
 
 ---
 
