@@ -87,11 +87,9 @@ Some phones stop background apps to save battery. If reminders arrive late:
 
 ---
 
-# Versions
-
+## Versions
 **version 1** : <https://github.com/saksham744-y/Daybreak/releases/download/v1.0/daybreak1.apk> <br>
-**version 2** : <https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk>
-
+**version 2** : <https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk> 
 ---
 
 ## Privacy
