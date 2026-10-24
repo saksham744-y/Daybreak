@@ -3,7 +3,9 @@
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
 
 - 🌐 **Website:** the original web app (PWA) in this repository, which runs in any browser and can be installed to your home screen.
+- 🌐 **Website link :**  <https://saksham744-y.github.io/Daybreak/>
 - 📱 **Android app:** a native app (Kotlin + Jetpack Compose) published as a file in this repository's **Releases**.
+- 📱 **Android app download link:** <https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk>
 
 Both versions are built for mobile first and keep your plan on your own device.
 
@@ -44,7 +46,10 @@ Both versions are built for mobile first and keep your plan on your own device.
 
 ## Use the website
 
-Open the site for this repository (GitHub Pages, if enabled under **Settings → Pages**). In your phone browser you can choose **Add to Home screen** / **Install app** to use it like an app.
+Open the site for this repository (GitHub Pages, if enabled under **Settings → Pages**). In your phone browser you can choose **Add to Home screen** / **Install app** to use it like an app.<br> **or** use link :  <https://saksham744-y.github.io/Daybreak/>
+
+
+
 
 <img src="Screenshot/webapp.png" >
 
@@ -52,15 +57,16 @@ Open the site for this repository (GitHub Pages, if enabled under **Settings →
 
 ## Download the Android app from Releases
 
-1. **Open the repository** on your Android phone: <https://github.com/sakshamy744-y/Daybreak>
+1. **Open the repository** on your Android phone: <https://github.com/saksham744-y/Daybreak>
 2. On the right side of the page (or under the repository name on mobile), tap **Releases**, then the **latest** release at the top.
-   Direct link: <https://github.com/sakshamy744-y/Daybreak/releases/download/Daybreak_v1.0/daybreak.apk>
 3. Scroll to **Assets** and tap the file ending in **`.apk`** to download it.
 4. If Android warns that the file type can harm your device, tap **Download anyway**.
 5. When the download finishes, tap **Open** (or open it from your **Downloads** folder).
 6. If asked, tap **Settings** and turn on **Allow from this source** for your browser or file manager, then go back and tap **Install**.
 7. Tap **Open**. The first-time guide starts automatically.
 8. Allow **Notifications** when asked.
+
+**OR** use link :<https://github.com/saksham744-y/Daybreak/releases/download/v2.0/daybreak2.apk>
 
 ### For reliable reminders
 
