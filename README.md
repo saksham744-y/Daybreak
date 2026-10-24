@@ -1,4 +1,4 @@
- <h1><b> Daybreak </b></h> 
+## <h1><b> Daybreak </b></h> ##
 
 **Daybreak is an app as well as a website.** Type or paste your tasks in plain words, and Daybreak turns them into a timed daily schedule with reminders.
 
