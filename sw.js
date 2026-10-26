@@ -3,12 +3,13 @@
 // Caches are named after this app's own scope, so several apps hosted on the same
 // domain (for example many GitHub Pages repos) never touch each other's caches.
 const PREFIX = 'daybreak:' + self.registration.scope;
-const VERSION = PREFIX + ':v2';
+const VERSION = PREFIX + ':v3';
 const FONTS = 'daybreak-fonts';
 const SHELL = [
   './',
   'index.html',
   'css/app.css',
+  'js/parser.js',
   'js/app.js',
   'manifest.webmanifest',
   'icons/favicon.svg',
